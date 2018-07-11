@@ -1,0 +1,65 @@
+html{
+  background-color: antiquewhite;
+  text-align: center;
+}
+body{
+  margin-bottom: 3%;
+}
+a{
+  color: grey;
+  text-decoration: none;
+  display: block;
+}
+a:hover, a:visited:hover, a:focus{
+  color: black;
+  text-decoration: none;
+}
+a:visited:hover{
+  color: black;
+  text-decoration: none;
+}
+.container{
+  color: gray;
+  background-color: antiquewhite;
+}
+.info{
+  padding-right: 4%;
+  border-bottom: 1px solid grey;
+}
+.info li{
+  list-style-type: none;
+  text-align: center;
+}
+.left-section{
+  text-align: center;
+}
+
+.right-section{
+  text-align: left;
+}
+.header{
+  /*background-color: lightblue;*/
+  border-top: 2px solid lightblue;
+  border-bottom: 2px solid lightblue;
+  font-weight: bold;
+  text-align: center;
+}
+.company{
+  font-weight: bold;
+}
+.job-title{
+  font-style: italic;
+  font-weight: bold;
+}
+.education-location{
+  font-weight: bold;
+}
+.education-completed{
+  font-style: italic;
+}
+.skills{
+
+}
+.bold{
+  font-weight: bold;
+}
