@@ -25,6 +25,8 @@ a:visited:hover{
 .info{
   padding-right: 4%;
   border-bottom: 1px solid grey;
+  margin-right: 0;
+  margin-left: 0;
 }
 .info li{
   list-style-type: none;
@@ -38,9 +40,11 @@ a:visited:hover{
   text-align: left;
 }
 .header{
-  /*background-color: lightblue;*/
-  border-top: 2px solid lightblue;
-  border-bottom: 2px solid lightblue;
+  /* background-color: lightblue; */
+  /* border-top: 2px solid lightblue; */
+  /* border-bottom: 2px solid lightblue; */
+  /* border-top: 2px solid lightblue; */
+  border-bottom: 2px solid black;
   font-weight: bold;
   text-align: center;
 }
